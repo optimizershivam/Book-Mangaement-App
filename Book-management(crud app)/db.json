@@ -1,0 +1,140 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author":"",
+      "no_of_chapters":6,
+      "cover_photo":"https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29tcHV0ZXIlMjBib29rfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "book_name": "Full-stack Web Development",
+      "category": "Novel",
+      "release_year":2019,
+      "chapters":
+      [
+        {"name":"HTML", "pages":25},
+        {"name":"CSS", "pages":20}
+      ]
+
+    },
+    {
+      "id": 2,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29tcHV0ZXIlMjBib29rfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2020,
+      "chapters": [
+        { "name": "HTML", "pages": 25 },
+        { "name": "CSS", "pages": 20 }
+      ]
+    },
+    {
+      "id": 3,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "https://images.unsplash.com/photo-1536704427498-861d93dd5525?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXIlMjBib29rfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2021,
+      "chapters": [
+        { "name": "HTML", "pages": 25 },
+        { "name": "CSS", "pages": 20 }
+      ]
+    },
+    {
+      "id": 4,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "https://images.unsplash.com/photo-1576014984719-500e07ce212b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y29tcHV0ZXIlMjBib29rfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2022,
+      "chapters": [
+        { "name": "HTML", "pages": 25 },
+        { "name": "CSS", "pages": 20 }
+      ]
+    },
+    {
+      "id": 5,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "https://images.unsplash.com/photo-1607776639522-3754b6893ac7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNvbXB1dGVyJTIwYm9va3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "book_name": "Full-Stack Web Development",
+      "category": "Thriller",
+      "release_year": 2018,
+      "chapters": [
+        { "name": "HTML", "pages": 25 },
+        { "name": "CSS", "pages": 20 }
+      ]
+    },
+    {
+      "id": 6,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "https://images.unsplash.com/photo-1518378379207-3418372afea3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGNvbXB1dGVyJTIwYm9va3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "book_name": "Full-Stack Web Development",
+      "category": "Thriller",
+      "release_year": 2017,
+      "chapters": [
+        { "name": "HTML", "pages": 25 },
+        { "name": "CSS", "pages": 20 }
+      ]
+    },
+    {
+      "id": 7,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGNvbXB1dGVyJTIwYm9va3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2016,
+      "chapters": [
+        { "name": "HTML", "pages": 25 },
+        { "name": "CSS", "pages": 20 }
+      ]
+    },
+    {
+      "id": 8,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "https://images.unsplash.com/photo-1497333558196-daaff02b56d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fGNvbXB1dGVyJTIwYm9va3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2015,
+      "chapters": [
+        { "name": "HTML", "pages": 25 },
+        { "name": "CSS", "pages": 20 }
+      ]
+    },
+    {
+      "id": 9,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "https://images.unsplash.com/photo-1533000971552-6a962ff0b9f9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fGNvbXB1dGVyJTIwYm9va3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "book_name": "Full-Stack Web Development",
+      "category": "Motivational",
+      "release_year": 2014,
+      "chapters": [
+        { "name": "HTML", "pages": 25 },
+        { "name": "CSS", "pages": 20 }
+      ]
+    },
+    {
+      "id": 10,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "https://images.unsplash.com/photo-1482876555840-f31c5ebbff1c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODF8fGNvbXB1dGVyJTIwYm9va3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "book_name": "Full-Stack Web Development",
+      "category": "Motivational",
+      "release_year": 2013,
+      "chapters": [
+        { "name": "HTML", "pages": 25 },
+        { "name": "CSS", "pages": 20 }
+      ]
+    }
+  ]
+ }
+  
+ 
+    
+  
